@@ -52,5 +52,5 @@ function parImpar(valor) {
 
 let verificao = parImpar(13)
 
-console.log9(verificao)
+console.log(verificao)
 
